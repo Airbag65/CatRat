@@ -14,7 +14,7 @@ Under spelets gång är det dessa kontroller som gäller:
 |   ESC  |   Avsluta spel   |
 
 ## Banor
-Alla banor finns sparade under mappen ```map``` i filer med ändelsen ````catrat```. Dessa filer innehåller en rad olika tecken i den formen som den aktuella banan kommer vara. Se tabellen nedan för en förklaring. 
+Alla banor finns sparade under mappen ```map``` i filer med ändelsen ```catrat```. Dessa filer innehåller en rad olika tecken i den formen som den aktuella banan kommer vara. Se tabellen nedan för en förklaring. 
 
 | Tecken |    Betydelse   |
 |:------:|:--------------:|
